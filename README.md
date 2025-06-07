@@ -1,5 +1,7 @@
 # 🧠 Pametni sistem za nadzor omrežnega prometa
 
+![image](https://github.com/user-attachments/assets/9890125b-cf57-4067-ad75-44539ef17eb4)
+
 Ta Python aplikacija z grafičnim vmesnikom omogoča **nadzor in klasifikacijo omrežnega prometa** s pomočjo **strojnega učenja**. Podpira tako **realni zajem prometa** preko Scapy kot tudi **simulacijo prometa**, beleži dogodke in podatke prikazuje v obliki grafov.
 
 ---
